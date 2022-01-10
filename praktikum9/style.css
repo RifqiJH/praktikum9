@@ -1,0 +1,37 @@
+
+ 
+.col-sm-6{
+	text-align: center;
+	/*ketebalan font*/
+	font-weight: 300;
+}
+ 
+.submit{
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+	text-transform: uppercase;
+}
+ 
+.kotak{
+	width: auto;
+	background: lightblue;
+	/*meletakkan form ke tengah*/
+	margin:auto;
+	padding: 30px 20px;
+    text-align: center;
+}
+ 
+label{
+	font-size: 11pt;
+}
+ 
+
+.submit{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
